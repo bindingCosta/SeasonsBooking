@@ -11,7 +11,7 @@ import SwiftUI
 struct bookmeApp: App {
     var body: some Scene {
         WindowGroup {
-            ExploreView()
+            ContentView()
         }
     }
 }
